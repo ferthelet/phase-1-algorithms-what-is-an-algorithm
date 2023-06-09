@@ -3,7 +3,7 @@
 ## Learning Goals
 
 - Define "algorithm"
-- Outline the steps for solving problems using algorithms
+- Outline the steps for solving problems using algorithms.
 
 ## Introduction
 
